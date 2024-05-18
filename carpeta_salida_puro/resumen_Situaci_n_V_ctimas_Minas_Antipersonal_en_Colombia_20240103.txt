@@ -1,0 +1,116 @@
+Total víctimas por año:
+2006: 1224
+2009: 771
+2008: 851
+2010: 679
+1993: 88
+2000: 141
+2003: 760
+2004: 900
+2007: 980
+2005: 1176
+2001: 299
+2011: 564
+1996: 120
+2002: 631
+1999: 54
+1998: 59
+1994: 86
+1992: 153
+1997: 96
+1991: 70
+1995: 130
+1990: 23
+2015: 223
+2013: 427
+2012: 589
+2014: 293
+2016: 90
+2017: 59
+2018: 179
+2019: 117
+2020: 176
+2021: 157
+2022: 139
+1984: 1
+2023: 59
+
+Total víctimas por mes (Independiente del año):
+1: 911
+12: 693
+4: 1124
+11: 840
+3: 1318
+8: 1054
+7: 1008
+10: 1018
+9: 930
+2: 1255
+5: 1120
+6: 1093
+
+Total víctimas por departamento:
+ANTIOQUIA: 2658
+CAQUETA: 946
+PUTUMAYO: 459
+CORDOBA: 283
+NARINO: 1115
+CAUCA: 662
+GUAVIARE: 267
+META: 1152
+NORTE DE SANTANDER: 970
+BOLIVAR: 645
+HUILA: 239
+VALLE DEL CAUCA: 271
+VAUPES: 44
+ARAUCA: 656
+TOLIMA: 539
+CASANARE: 90
+VICHADA: 17
+CHOCO: 230
+SANTANDER: 297
+CESAR: 156
+LA GUAJIRA: 60
+CUNDINAMARCA: 141
+CALDAS: 170
+BOGOTA DC: 30
+MAGDALENA: 46
+SUCRE: 78
+QUINDIO: 28
+BOYACA: 78
+GUAINIA: 3
+RISARALDA: 22
+ATLANTICO: 8
+AMAZONAS: 4
+
+Total víctimas por actividad:
+Pasando, estando cerca: 1112
+Erradicador manual - PCI: 360
+Fuerza publica: 6913
+Sin Informacion: 2108
+Transito por via usual: 187
+Cuidado de animales: 103
+Trabajos de casa: 56
+Transito por trocha atajo: 59
+Otra: 98
+Agricultura: 366
+Recogiendo comida, agua o  madera: 180
+Erradicacion de cultivos ilicitos: 118
+Jugando: 136
+Caza, pesca: 49
+Viajando: 18
+Manipulacion: 192
+Labores de desminado: 5
+Mantenimiento de infraestructura: 25
+Actividades fuerza publica: 254
+Labores de rescate: 1
+Erradicacion - PONAL: 24
+
+Total víctimas por género:
+Herido: 10013
+Muerto: 2351
+
+Total víctimas por estado:
+Hombre: 11651
+Mujer: 673
+Sin Informacion: 40

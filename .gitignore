@@ -1,0 +1,71 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.VENV/
+
+# Archivos de configuración del entorno
+.env
+*.env
+
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Archivos de migraciones de Django
+*/migrations/*
+
+# Archivos de bases de datos locales
+*.sqlite3
+
+# Directorios y archivos de logs
+logs/
+*.log
+
+# Archivos de caché y temporales
+*.swp
+*.swo
+*.DS_Store
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+.Python
+
+# Archivos generados por el sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de colecciones de Postman
+*.postman_collection.json
+
+# Archivos y carpetas de node_modules si se utiliza npm/yarn
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de cobertura de pruebas
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+nosetests.xml
+*.cover
+*.coverage
+*.cov
+
+# Archivos de configuración de cobertura
+.coverage
+
+# Archivos estáticos y de medios generados
+staticfiles/
+media/
+
+# Archivos de distribución
+dist/
+build/

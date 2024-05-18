@@ -1,0 +1,122 @@
+Total víctimas por año:
+ano
+1984       1
+1990      23
+1991      70
+1992     153
+1993      88
+1994      86
+1995     130
+1996     120
+1997      96
+1998      59
+1999      54
+2000     141
+2001     299
+2002     631
+2003     760
+2004     900
+2005    1176
+2006    1224
+2007     980
+2008     851
+2009     771
+2010     679
+2011     564
+2012     589
+2013     427
+2014     293
+2015     223
+2016      90
+2017      59
+2018     179
+2019     117
+2020     176
+2021     157
+2022     139
+2023      59
+
+Total víctimas por mes (Independiente del año):
+mes
+1      911
+2     1255
+3     1318
+4     1124
+5     1120
+6     1093
+7     1008
+8     1054
+9      930
+10    1018
+11     840
+12     693
+
+Total víctimas por departamento:
+departamento
+AMAZONAS                 4
+ANTIOQUIA             2658
+ARAUCA                 656
+ATLANTICO                8
+BOGOTA DC               30
+BOLIVAR                645
+BOYACA                  78
+CALDAS                 170
+CAQUETA                946
+CASANARE                90
+CAUCA                  662
+CESAR                  156
+CHOCO                  230
+CORDOBA                283
+CUNDINAMARCA           141
+GUAINIA                  3
+GUAVIARE               267
+HUILA                  239
+LA GUAJIRA              60
+MAGDALENA               46
+META                  1152
+NARIÃO               1115
+NORTE DE SANTANDER     970
+PUTUMAYO               459
+QUINDIO                 28
+RISARALDA               22
+SANTANDER              297
+SUCRE                   78
+TOLIMA                 539
+VALLE DEL CAUCA        271
+VAUPES                  44
+VICHADA                 17
+
+Total víctimas por actividad:
+actividad
+Actividades fuerza pÃºblica            254
+Agricultura                            366
+Caza, pesca                             49
+Cuidado de animales                    103
+Erradicacion de cultivos ilicitos      118
+ErradicaciÃ³n - PONAL                   24
+Erradicador manual - PCI               360
+Fuerza pÃºblica                       6913
+Jugando                                136
+Labores de desminado                     5
+Labores de rescate                       1
+ManipulaciÃ³n                          192
+Mantenimiento de infraestructura        25
+Otra                                    98
+Pasando, estando cerca                1112
+Recogiendo comida, agua Ã³  madera     180
+Sin InformaciÃ³n                      2108
+Trabajos de casa                        56
+Transito por trocha atajo               59
+Transito por via usual                 187
+Viajando                                18
+
+Total víctimas por género:
+genero
+herido    10013
+muerto     2351
+
+Total víctimas por estado:
+estado
+hombre              11651
+mujer                 673
+sin informacia3n       40
